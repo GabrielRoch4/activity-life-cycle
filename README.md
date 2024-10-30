@@ -18,3 +18,4 @@ Open the app – Observe onCreate(), onStart(), and onResume() in the logs.
 Minimize and reopen – Check the calls to onPause(), onStop(), onRestart(), onStart(), and onResume().
 Rotate the screen – Note how the lifecycle methods are called as the activity is recreated.
 Close the app – Observe onPause(), onStop(), and onDestroy() as the activity ends.
+![Screenshot_20240930_092725_AulaActivity (1)](https://github.com/user-attachments/assets/c398913b-baf1-4809-92b8-33ce177a355e)
